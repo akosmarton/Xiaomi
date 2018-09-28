@@ -23,7 +23,7 @@
  */
 
 metadata {
-    definition (name: "Xiaomi Temperature Humidity Sensor", namespace: "bspranger", author: "bspranger") {
+    definition (name: "Xiaomi Temperature Humidity Sensor", namespace: "akosmarton", author: "akosmarton") {
 	capability "Temperature Measurement"
 	capability "Relative Humidity Measurement"
 	capability "Sensor"
